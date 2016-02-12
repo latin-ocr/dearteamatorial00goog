@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dearteamatorial00goog_0096.png"; bbox 0 0 915 1342; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 235 572 643 606">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 235 572 643 606">
+     <span class='ocr_line' id='line_1_1' title="bbox 235 572 643 606; baseline 0.002 -1"><span class='ocrx_word' id='word_1_1' title='bbox 235 572 470 606; x_wconf 90' lang='lat' dir='ltr'>ZWEITES</span> <span class='ocrx_word' id='word_1_2' title='bbox 495 573 643 606; x_wconf 86' lang='lat' dir='ltr'>BUCH.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 148 1169 368 1184">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 148 1169 368 1184">
+     <span class='ocr_line' id='line_1_2' title="bbox 148 1169 368 1184; baseline 0.009 -3"><span class='ocrx_word' id='word_1_3' title='bbox 148 1169 193 1184; x_wconf 62' lang='lat' dir='ltr'>ond.</span> <span class='ocrx_word' id='word_1_4' title='bbox 199 1173 219 1182; x_wconf 68' lang='lat' dir='ltr'>tn</span> <span class='ocrx_word' id='word_1_5' title='bbox 226 1171 285 1182; x_wconf 57' lang='lat' dir='ltr'>mum</span> <span class='ocrx_word' id='word_1_6' title='bbox 291 1171 368 1183; x_wconf 53' lang='lat' dir='ltr'>012]an</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
